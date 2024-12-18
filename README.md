@@ -33,7 +33,7 @@ You may demostrate your final funtioning prototype with **one and only one** of 
 - E2E test case
 
 ### Tips on completing this task
-- The project maintainability is the most top priority in this 
+- The project maintainability is the most top priority in this homework
 - Be as flexible as possible in your programming (maybe a little abstract, if you have any questions you can text us)
 - Testing, testing and testing. Make sure the prototype is functioning and meeting all the requirements.
 - Do not over engineering. Try to scope your working hour within 3 hours (1 hour per day). You may document all the optimization or technology concern that you think good to bring in the solution.
